@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Quinn (@quinnux681)
 
-<!--
-**quinnux681/quinnux681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile developer based in Berlin. Currently building client apps at App Studio and tinkering with offline-first mobile sync.
 
-Here are some ideas to get you started:
+#### What I'm doing
+- 📱 Shipping cross-platform apps with Flutter and React Native
+- 🧪 Messing with Kotlin Multiplatform on weekends
+- 🛠️ Automating mobile release pipelines with Fastlane
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Toolbox
+- **Core:** Flutter, Dart, React Native, TypeScript
+- **Backend/State:** Firebase, Supabase, Riverpod, Zustand
+- **Tooling:** Fastlane, GitHub Actions, Maestro
+
+#### Contact
+- Email: `quinn.ux@pm.me`
+- LinkedIn: [in/quinnux681](https://linkedin.com)
+- Or open an issue/PR on any public repo here.
